@@ -43,7 +43,8 @@ print(enumnums)
 
 #对比每一位的可能数字 得到密码不可能的数字
 imp = []
-for n in enumnums:
+#for n in enumnums:
+for n in arr
     bImp = True
     for r in real:
         for rr in r:
